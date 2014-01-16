@@ -1,0 +1,245 @@
+Name:  Choi's Restaurant
+Address:  311 Dominik Dr
+College Station, TX 77840
+Phone:  +1-979-703-7911
+Review Count:  18
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/rCj2sWCGzB92aDizpe_xpw/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  Great food, great service and good price.
+The atmosphere of the restaurant outside isn't so fancy and neither is the interior of the restaurant. However,...
+Categories:  Korean korean 
+
+Name:  Chef Cao's
+Address:  404 University Dr E
+College Station, TX 77840
+Phone:  +1-979-696-8383
+Review Count:  30
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/uPzhCslnEX3K4t0PZ17i-A/ms.jpg
+Rating: 3.0
+Rating:  http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+Snippet text:  And what exactly is "water spinach?" Walked in here for lunch and saw a sign advertising it. Upon inquiring, got a long friendly helpful explanation from...
+Categories:  Chinese chinese 
+
+Name:  Cenare Italian Restaurant
+Address:  404 University Dr E
+Ste X
+College Station, TX 77840
+Phone:  +1-979-696-7311
+Review Count:  18
+Image URL:  http://s3-media1.ak.yelpcdn.com/bphoto/CYBm-cW32inltd4BcJJfVQ/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  Cenare is like Olive Garden in where in the Olive Garden commercials they tell you that they send their chefs to Italy to learn how to cool Italian food...
+Categories:  Italian italian Wine Bars wine_bars 
+
+Name:  The Republic
+Address:  701 University Dr E
+Ste 406
+College Station, TX 77840
+Phone:  +1-979-260-4120
+Review Count:  52
+Image URL:  http://s3-media1.ak.yelpcdn.com/bphoto/u3SStrcfYLUpYzDuTTh-Iw/ms.jpg
+Rating: 4.5
+Rating:  http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png
+Snippet text:  Have dined here several times.
+
+Service is amazing.
+Food is amazing.
+
+I was worried at first coming to visit my friend when he moved up here, I wasn't going...
+Categories:  Steakhouses steak Breweries breweries American (Traditional) tradamerican 
+
+Name:  Taz Indian Cuisine
+Address:  2416 Texas Ave S
+Ste A
+College Station, TX 77840
+Phone:  +1-979-696-6560
+Review Count:  37
+Image URL:  http://s3-media1.ak.yelpcdn.com/bphoto/sYyl6qbRHWFK-2sXY2XG5g/ms.jpg
+Rating: 4.5
+Rating:  http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png
+Snippet text:  Taz has recently remodeled and it looks beautiful. The lunch buffet has inched up in quality, and so has the menu. Of particular note for me was the...
+Categories:  Indian indpak Buffets buffets 
+
+Name:  Veritas Wine & Bistro
+Address:  830 University Dr E
+College Station, TX 77840
+Phone:  +1-979-268-3251
+Review Count:  53
+Image URL:  http://s3-media3.ak.yelpcdn.com/bphoto/anpRljAR4vCJWtMtVfT35A/ms.jpg
+Rating: 4.5
+Rating:  http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png
+Snippet text:  Looking for an after game way to sooth your loss to the Aggies, or celebrate the win?  
+
+Veritas is the place.   It's not only the winner of Food Networks...
+Categories:  Wine Bars wine_bars Seafood seafood Steakhouses steak 
+
+Name:  Mong Chon Korean Take Out
+Address:  900 Harvey Rd
+Ste 3A
+College Station, TX 77840
+Phone:  +1-979-696-1805
+Review Count:  23
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/snzwGZhn7MXTbRpqNUaZ6A/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  Ordered the Kimbap and Spicy Ramen. My friend ordered the dolsot bibimbap with beef and mushrooms (If it has another name I'm sorry, I'm not very educated...
+Categories:  Korean korean 
+
+Name:  T Jin China Diner
+Address:  3515 Longmire Dr
+Ste  A
+College Station, TX 77845
+Phone:  +1-979-696-3666
+Review Count:  23
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/7mw2D-N9Mgecpnm1nx3RHw/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  Very authentic, egg rolls were light and crispy. The Tai Chicken and Shrimp was delicious!!!!! , large portions. Almond Chicken was very good. Green beans...
+Categories:  Chinese chinese Buffets buffets 
+
+Name:  40 Tempura Japanese Fusion Grill
+Address:  2551-D Texas Ave S
+College Station, TX 77840
+Phone:  +1-979-703-4034
+Review Count:  46
+Image URL:  http://s3-media3.ak.yelpcdn.com/bphoto/Hqxwbxq39fFwiAmNuR0ojg/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  Best Sushi in town. Very fresh and beautiful presentation. The staff has always been enthusiastic and professional. 
+
+If you're hungry get the Giant Roll. I...
+Categories:  Sushi Bars sushi Japanese japanese 
+
+Name:  Shiraz Shish Kabob
+Address:  110 Dominik Dr
+College Station, TX 77840
+Phone:  +1-979-694-8385
+Review Count:  67
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/CyqpROkHACqrUfxSqvf5XA/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  I ordered the 2 Kabob Plate, one Shiraz Shish Kabob featuring minced beef blended with spices and one Marinated Beef Shish Kabob. The plate also came with...
+Categories:  Middle Eastern mideastern Mediterranean mediterranean Vegan vegan 
+
+Name:  Centro American Restaurant & Pupuseria
+Address:  317 Dominik Dr
+College Station, TX 77840
+Phone:  +1-979-703-1266
+Review Count:  34
+Image URL:  http://s3-media1.ak.yelpcdn.com/bphoto/evpR8FQR5JiR4yt9U7O-uA/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  I do not like TexMex food, so I'm always apprehensive eating at "Mexican" (Central American) restaurants. This place is legit! 
+
+We ordered take out here...
+Categories:  Latin American latin Mexican mexican 
+
+Name:  Genghis Grill
+Address:  700 University Dr E
+College Station, TX 77840
+Phone:  +1-979-260-6800
+Review Count:  19
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/jebiMYk-AJrm8td7pNx_0Q/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  Outstanding! Great selection. Great service. Great food. 
+
+Bowl: get the medium unless you are feeding a family of 4. The medium bowl was enough for me to...
+Categories:  Mongolian mongolian 
+
+Name:  Luigi's Patio Ristorante
+Address:  3975 SH-6 S
+# 100
+College Station, TX 77845
+Phone:  +1-979-693-2742
+Review Count:  32
+Image URL:  http://s3-media4.ak.yelpcdn.com/bphoto/HF3e7s1NeHZjGhsBnUrOBQ/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  We were really impressed with Luigi's.  Service was great, although not very crowded early on Wednesday night.  Very inexpensive kids menu with good size...
+Categories:  Italian italian 
+
+Name:  Ohana Korean Grill
+Address:  2501 S Texas Ave
+Ste D-102
+College Station, TX 77840
+Phone:  +1-979-680-9911
+Review Count:  30
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/kxaWgiNkVNBJduLbvjebvA/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  People often ask me, knowing that I have eaten at every restaurant in College Station, what's my favorite?   I can never answer that because it comes down...
+Categories:  Korean korean Barbeque bbq Asian Fusion asianfusion 
+
+Name:  Azure Fusion Bistro & Sake
+Address:  3975 State Hwy 6 S
+College Station, TX 77845
+Phone:  +1-979-693-7836
+Review Count:  21
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/tzhZUUhHQYV0cA4pFF--jw/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  My husband and I visited this restaurant for the first time last weekend. Sushi is our favorite type of food, and we've been looking for a good sushi...
+Categories:  Sushi Bars sushi 
+
+Name:  Pho John's
+Address:  1901 Texas Ave S
+College Station, TX 77840
+Phone:  +1-979-696-1250
+Review Count:  42
+Image URL:  http://s3-media1.ak.yelpcdn.com/bphoto/ZDsLXMdOqsqasv4P6svYyg/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  Egg roll appetizers are awesome. Only negative is that we had to use napkins for our plates. 
+
+Sate' Beef w/fried rice & Pad Thai were great choices. Paid...
+Categories:  Vietnamese vietnamese 
+
+Name:  BJ's Restaurant & Brewhouse
+Address:  1520 Harvey Rd
+College Station, TX 77598
+Phone:  +1-979-696-5700
+Review Count:  22
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/QY4LBXktz7b3Ax8BtAOwEA/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  Two can dine for $20. Having 2 salads, medium Mediterranean pizza and raspberry white chocolate pazookie. 
+
+Grab some of their Thai Seafood wrap as a appetizer!
+Categories:  Breweries breweries Pizza pizza American (Traditional) tradamerican 
+
+Name:  VY's Kitchen Asian Cuisine
+Address:  102 Live Oak St
+College Station, TX 77840
+Phone:  +1-979-485-9817
+Review Count:  22
+Image URL:  http://s3-media3.ak.yelpcdn.com/bphoto/7kqg7lraSZUKymFam6NX2Q/ms.jpg
+Rating: 4.5
+Rating:  http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png
+Snippet text:  My husband and I eat there every Friday and the food is great.  We enjoy the intimate quiet atmosphere and they don't mind if you linger at your table...
+Categories:  Asian Fusion asianfusion Chinese chinese Vietnamese vietnamese 
+
+Name:  Cheddar's College Station
+Address:  1701 University Dr E
+College Station, TX 77840
+Phone:  +1-979-260-1701
+Review Count:  15
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/yR0-eqqL_Sjb7aBGqsmDMA/ms.jpg
+Rating: 3.5
+Rating:  http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+Snippet text:  I give this place 5 stars for a very simple reason.  It's cheap.  And I don't mean cheap like some hole in the wall secret place.  I mean it's cheap like as...
+Categories:  American (Traditional) tradamerican 
+
+Name:  Fuego Tortilla Grill
+Address:  108 Poplar St
+College Station, TX 77840
+Phone:  +1-979-703-1804
+Review Count:  101
+Image URL:  http://s3-media2.ak.yelpcdn.com/bphoto/LIs8up4Q7YUYBWazhR8htg/ms.jpg
+Rating: 4.0
+Rating:  http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+Snippet text:  Definitely one of the places I would go to enjoy cheap yet hearty breakfast tacos in College Station. The wait for food wasn't bad for me, it only took...
+Categories:  Mexican mexican 
+
